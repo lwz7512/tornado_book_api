@@ -6,11 +6,15 @@ Tornado Book API example
 
 ## install tornado
 
+```
 % pip3 install tornado
+```
 
 ## start server
 
+```
 % python3 api.py
+```
 
 ## api routes
 
